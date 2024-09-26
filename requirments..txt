@@ -1,5 +1,10 @@
 Flask 
-scikit-learn 
-langdetect 
-googletrans==4.0.0-rc1
-langdetect
+Gunicorn
+scikit-learn
+flask-cors
+sentence-transformers
+better-profanity
+supabase
+torch   
+numpy  
+requests  
